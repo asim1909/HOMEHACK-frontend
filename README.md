@@ -8,7 +8,8 @@
   <a href="https://asim1909.github.io/HOMEHACK.webpage/" target="_blank">View Live</a>
 </p>
 
-![demo](https://cdn.discordapp.com/attachments/939525739995332688/944320721805525002/unknown.png)
+![image](https://user-images.githubusercontent.com/118390636/212420604-ce0deeae-3ba3-405f-a383-4cb00511b4be.png)
+
 
 ## 🛠 Installation & Set Up
 
