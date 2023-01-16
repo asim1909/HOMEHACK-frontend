@@ -8,7 +8,7 @@
   <a href="https://asim1909.github.io/HOMEHACK-frontend/" target="_blank">View Live</a>
 </p>
 
-![image](https://user-images.githubusercontent.com/118390636/212420604-ce0deeae-3ba3-405f-a383-4cb00511b4be.png)
+![image](https://user-images.githubusercontent.com/118390636/212736492-7eeb06e0-c955-491b-bf5a-684422574d1e.png)
 
 
 ## 🛠 Installation & Set Up
